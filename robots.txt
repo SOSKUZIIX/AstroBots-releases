@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soskuziix.github.io/AstroBots-releases/sitemap.xml
